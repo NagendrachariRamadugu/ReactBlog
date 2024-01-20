@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "My Second Post ",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "datetime": "01 20, 2024 / 1:15:33 PM"
+    },
+    {
+      "id": "21",
+      "title": "(Na)Ramadugu",
+      "body": "Nagendra Loves Naffesa",
+      "datetime": "01 20, 2024/ 1:44:20 PM"
+    },
+    {
+      "id": "211",
+      "title": "Naffesa Ramadugu",
+      "body": "Pathan Naffesa Should soon be going to be Ramadugu Naffesa. This is Nagendra's assurance. Love you kannamma",
+      "datetime": "01 20, 2024/ 1:45:43 PM"
+    }
+  ]
+}
